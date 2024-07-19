@@ -1,0 +1,5 @@
+pytz
+requests
+beautifulsoup4
+urllib3
+tzlocal
