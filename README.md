@@ -1,9 +1,14 @@
 # BuiltIn_and_Adzuna_data_extraction
-This repository contains Python scripts for extracting job postings data from the websites BuiltIn and Adzuna using a combination of web scraping and data extraction techniques.
+This repository contains Python scripts for extracting job postings data from the websites BuiltIn and Adzuna posted in the last 24 hours using a combination of web scraping and data extraction techniques.
 
 BuiltIn.py: Python script for scraping job postings from Builtin.
+
 Adzuna.py: Python script for extracting job postings from Adzuna using API provided by adzuna.
-Adzuna code works only with API ID and API key provided by adzuna. 
+
+Code written to extract job postings from adzuna site works only with API ID and API key provided by adzuna. 
+
+Included sample output CSV files generated
+
 requirements.txt: Lists Python dependencies required to run the scripts.
 
 ## Setup
@@ -16,7 +21,7 @@ requirements.txt: Lists Python dependencies required to run the scripts.
    - If neither works, install each package listed in requirements.txt manually:
      `python -m pip install package_name`
 
-Included sample output CSV files generated
+
 
   
 
